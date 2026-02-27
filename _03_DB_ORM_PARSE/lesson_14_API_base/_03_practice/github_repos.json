@@ -1,0 +1,182 @@
+[
+    {
+        "name": ".github",
+        "description": "Organization-wide GitHub settings",
+        "language": null,
+        "stars": 5
+    },
+    {
+        "name": "advisory-database",
+        "description": "This is a repository of vulnerability advisories for projects in scope for the Python Software Foundation CVE Numbering Authority (CNA)",
+        "language": "Python",
+        "stars": 41
+    },
+    {
+        "name": "black",
+        "description": "The uncompromising Python code formatter",
+        "language": "Python",
+        "stars": 41401
+    },
+    {
+        "name": "black-pre-commit-mirror",
+        "description": "No description",
+        "language": "Python",
+        "stars": 47
+    },
+    {
+        "name": "blog",
+        "description": "WIP Migration for PSF Blog from Blogger",
+        "language": "Astro",
+        "stars": 0
+    },
+    {
+        "name": "bpo-django-gae2django",
+        "description": "No description",
+        "language": "Python",
+        "stars": 2
+    },
+    {
+        "name": "bpo-rietveld",
+        "description": "No description",
+        "language": "Python",
+        "stars": 2
+    },
+    {
+        "name": "bpo-roundup",
+        "description": "No description",
+        "language": "Python",
+        "stars": 6
+    },
+    {
+        "name": "bpo-tracker-cpython",
+        "description": "No description",
+        "language": "Python",
+        "stars": 26
+    },
+    {
+        "name": "bpo-tracker-jython",
+        "description": "No description",
+        "language": "HTML",
+        "stars": 2
+    },
+    {
+        "name": "bpo-tracker-roundup",
+        "description": "No description",
+        "language": "HTML",
+        "stars": 2
+    },
+    {
+        "name": "bylaws",
+        "description": "PSF Bylaws in markdown format",
+        "language": null,
+        "stars": 12
+    },
+    {
+        "name": "cachecontrol",
+        "description": "The httplib2 caching algorithms packaged up for use with requests.",
+        "language": "Python",
+        "stars": 496
+    },
+    {
+        "name": "clabot",
+        "description": "Python Software Foundation Contributor License Agreement Management Bot",
+        "language": "Python",
+        "stars": 6
+    },
+    {
+        "name": "community-code-of-conduct",
+        "description": "The Python Software Foundation Community Code of Conduct",
+        "language": null,
+        "stars": 20
+    },
+    {
+        "name": "diversity-and-inclusion-wg",
+        "description": "The Diversity and Inclusion Working Group is a volunteer workgroup of the Python Software Foundation. The workgroup's purpose is to further the PSF’s mission to ‘support and facilitate the growth of a diverse and international community of Python programmers.’ We also aim to provide guidance to the PSF Board of Directors in line with this mandate.",
+        "language": "CSS",
+        "stars": 16
+    },
+    {
+        "name": "docker-mailman",
+        "description": "Dockerfiles for the Mailman suite.",
+        "language": null,
+        "stars": 1
+    },
+    {
+        "name": "education-wg",
+        "description": "No description",
+        "language": null,
+        "stars": 3
+    },
+    {
+        "name": "elections",
+        "description": "Tools and documentation around running a PSF election",
+        "language": "Python",
+        "stars": 10
+    },
+    {
+        "name": "fides-deploy",
+        "description": "PSFs Deployment of Fides",
+        "language": "Python",
+        "stars": 2
+    },
+    {
+        "name": "fundable-packaging-improvements",
+        "description": "Packaging improvements that could be funded",
+        "language": null,
+        "stars": 57
+    },
+    {
+        "name": "gh-migration",
+        "description": "This repo is used to manage the migration from bugs.python.org to GitHub.",
+        "language": null,
+        "stars": 43
+    },
+    {
+        "name": "httpbin",
+        "description": "HTTP Request & Response Service, written in Python + Flask.",
+        "language": "Python",
+        "stars": 79
+    },
+    {
+        "name": "infra",
+        "description": "Infrastructure as Code for the PSF",
+        "language": "HCL",
+        "stars": 3
+    },
+    {
+        "name": "matterbridge-configuration",
+        "description": "PSF Hosted configuration for matterbridge instance",
+        "language": "Shell",
+        "stars": 2
+    },
+    {
+        "name": "organizer-toolkit",
+        "description": "An open-source kit for starting or improving your Python software community, conference, meetup, event etc..",
+        "language": "Just",
+        "stars": 3
+    },
+    {
+        "name": "packaging-wg",
+        "description": "No description",
+        "language": null,
+        "stars": 1
+    },
+    {
+        "name": "policies",
+        "description": "No description",
+        "language": "Dockerfile",
+        "stars": 23
+    },
+    {
+        "name": "project-funding-wg",
+        "description": "No description",
+        "language": null,
+        "stars": 23
+    },
+    {
+        "name": "psf-tuf-runbook",
+        "description": "A runbook for the PSF, for TUF key setup and initial signing operations to bootstrap signing for PyPI.",
+        "language": "Rust",
+        "stars": 16
+    }
+]
